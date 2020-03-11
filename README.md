@@ -133,6 +133,8 @@ This solution is licensed through CaTS and available to all WSU faculty.
 Quick facts:
 * campus authentication using w#
 * can use both website or standalone application
+* email alerts when someon is in your meeting room
+* scheduleable meetings
 
 Topics for webex:
 * [CaTS Cisco Webex instructions](https://www.wright.edu/information-technology/services/cisco-webex-meeting-center).
@@ -146,7 +148,7 @@ Note: this link will put you in a waiting room until the owner of the link signs
 
 ---
 ### Discord
-Discord is a voice and text chat solution that is popular with gamers.  The big 
+Discord is a voice and text chat solution that supports a lot of customization of user roles and permissions.  The big 
 benefit of Discord (besides being free) is it allows students to communicate 
 with one another synchronously via voice or asynchronously via text without the
 instructor needing to manage it.  This allows students to help each other out
@@ -156,13 +158,21 @@ Quick facts:
 * web appliance or local installation options
 * requires registering an account with discord
 * can post an invite link to pilot
+* allows students to communicate without instructor present
 
 Topics for Discord:
 * [Here is an example discord server](https://discord.gg/xcgpNSV)
 
 ---
 ### Microsoft Teams
-In progress
+Teams is a text chat based collaboration tool provided by Microsoft that integrates with other Microsoft services.
+
+Quick facts:
+* campus authentication using w#
+* can use web hosted or standalone installation
+* allows students to communicate without instructor present
+
+Topics for Microsoft Teams:
 
 ---
 ### Jamboard
@@ -171,6 +181,7 @@ Google Jamboard is a google drive app that allows for shared online collaborativ
 Quick facts:
 * web appliance, no download needed
 * Google account required
+* allows annotation over whiteboard or screen clippings
 
 Topics for Jamboard:
 * [Google Jamboard sign in](https://jamboard.google.com/)
@@ -178,7 +189,7 @@ Topics for Jamboard:
 
 ---
 ### OneNote
-In progress
+Microsoft OneNote is a program for sharing static and live collaborative whiteboards
 
 Topics for OneNote:
 * [Microsoft's OneNote walkthrough for teachers](https://support.office.com/en-us/article/getting-started-with-the-onenote-class-notebook-a-walkthrough-for-teachers-28666b8e-b0ae-48fe-b001-1874f5f6db58)
@@ -187,9 +198,11 @@ Topics for OneNote:
 ### Github
 In progress
 
-https://github.com/mkijowski/ceg2350
+Quick facts:
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Topics for github:
+* [Sample course prep](https://github.com/mkijowski/ceg2350)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 ### OneDrive
