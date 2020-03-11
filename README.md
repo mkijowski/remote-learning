@@ -117,9 +117,10 @@ A virtual classroom built into every Pilot course, Blackboard Collaborate Ultra 
 * Breakout groups
 * voice and text chat
 * session recording
+* Pilot integration
 
-Information can be found here: 
-[https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
+Topics for Blackboard Collaborate Ultra: 
+* [CTL Instructions](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
 
 ---
 ### Webex
@@ -151,7 +152,13 @@ with one another synchronously via voice or asynchronously via text without the
 instructor needing to manage it.  This allows students to help each other out
 and can reduce the load on the instructor.
 
-Here is an example discord server invite: [https://discord.gg/xcgpNSV](https://discord.gg/xcgpNSV)
+Quick facts:
+* web appliance or local installation options
+* requires registering an account with discord
+* can post an invite link to pilot
+
+Topics for Discord:
+* [Here is an example discord server](https://discord.gg/xcgpNSV)
 
 ---
 ### Microsoft Teams
@@ -159,16 +166,22 @@ In progress
 
 ---
 ### Jamboard
-In progress
 Google Jamboard is a google drive app that allows for shared online collaborative whiteboards.
 
-Google Jamboard sign in:  [https://jamboard.google.com/](https://jamboard.google.com/)
+Quick facts:
+* web appliance, no download needed
+* Google account required
 
-Online Google jamboard tutorials can be found here: [https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard](https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard)
+Topics for Jamboard:
+* [Google Jamboard sign in](https://jamboard.google.com/)
+* [Online Google jamboard tutorials](https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard)
 
 ---
 ### OneNote
 In progress
+
+Topics for OneNote:
+* [Microsoft's OneNote walkthrough for teachers](https://support.office.com/en-us/article/getting-started-with-the-onenote-class-notebook-a-walkthrough-for-teachers-28666b8e-b0ae-48fe-b001-1874f5f6db58)
 
 ---
 ### Github
