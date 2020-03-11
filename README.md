@@ -13,7 +13,7 @@ Contained in this document are the following:
 #### Lecture recording/livestream:
 * [Panopto](https://github.com/mkijowski/remote-learning#panopto)
 * [Camtasia](https://github.com/mkijowski/remote-learning#camtasia)
-* [Pilot Remote Learning](https://github.com/mkijowski/remote-learning#pilot-remote-learning)
+* [Blackboard Collaborate Ultra](https://github.com/mkijowski/remote-learning#Blackboard-Collaborate-Ultra)
 
 #### Remote office hours (voice/video with small groups)
 * [Webex](https://github.com/mkijowski/remote-learning#webex)
@@ -42,6 +42,8 @@ Topics for Panopto:
 * [Recording videos with Panopto](https://github.com/mkijowski/remote-learning#Recording-videos-with-Panopto)
 * [Re-using videos already in Panopto](https://github.com/mkijowski/remote-learning#Re-using-videos-already-in-Panopto)
 * [Uploading videos to Panopto](https://github.com/mkijowski/remote-learning#Uploading-videos-to-Panopto)
+* [Editing videos in Panopto](https://github.com/mkijowski/remote-learning#Editing-videos-in-Panopto)
+* [Center for Teaching and Learning Panopto Tutorials (wright.edu link)](https://www.wright.edu/center-for-teaching-and-learning/resources/panopto-tutorials)
 
 #### How to add Panopto to your course
 If you are combining your classes (in class and online OR undergrad and grad) 
@@ -63,27 +65,91 @@ To get access to additional tools, **after** signing in to pilot browse to
 and select **sign in with Pilot**.
 
 #### Recording videos with Panopto
-
-#### Re-using videos already in Panopto
+Either sign into pilot and go to your Panopto module or sign into the Panopto hosted site.
+Select the Create button.  From here you can:
+* **Record a New Session** which will require you to download the Panopto application.  
+  Windows and Mac have applications.  Linux users will need to use an alternative 
+  capture program and then upload their content.  Once the app is installed, you 
+  will need to log in with Pilot.  This will open up a browser for authentication.  
+  Once you have logged in to Pilot in the browser, you may need to open the verification link provided by the app to finish the sign in process.
+  Panopto has a beta capture recording that is browser based.  As it is beta we have limited experience / ability to assist.
 
 #### Uploading videos to Panopto
+Follow the Recording instructions above and select the second option:
+* **Upload Media** allows you to upload content from other platforms - Panopto will let you know if you are using a format it does not support.
+
+#### Re-using videos already in Panopto
+Sign into pilot, then into [http://wrightstate.hosted.panopto.com/](http://wrightstate.hosted.panopto.com/).
+Browse to the class you wish to pull videos from.  You can **bulk Copy** or **Move** 
+the videos to the course where they are needed.
+
+#### Editing videos in Panopto
+Sign into pilot, then into [http://wrightstate.hosted.panopto.com/](http://wrightstate.hosted.panopto.com/).
+Browse to the video you would like to edit and click the edit button.
+All edits in Panopto are non-destructive, meaning they can be un-done.  You 
+can use this video editing web interface to cut out portions of your video 
+before publishing it to students.
 
 ### Camtasia
+Camtasia is a solution to create screen recordings along with capturing the 
+audio from your computer's microphone.  Because there is no distribution method,
+this tool will require another system like [Panopto](https://github.com/mkijowski/remote-learning#panopto) to deliver the videos to students.
 
+Because of this added complexity we recommend using the provided Panopto recorder to capture and edit videos.
 
-### Pilot Remote Learning
+The last time I worked with Camtasia, our campus license required your system 
+to be on Active Directory.
+
+### Blackboard Collaborate Ultra
+A virtual classroom built into every Pilot course, Blackboard Collaborate Ultra offers the follwoing features:  
+* Screen Sharing
+* Virtual whiteboard
+* File sharing
+* Polling (multiple choice and yes/no
+* Breakout groups
+* voice and text chat
+* session recording
+
+Information can be found here: 
+[https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
 
 
 ### Webex
+Cisco Webex is a web conferencing platform that supports scheduled and live 
+web conferencing, including voice, video, and screen sharing among a number of 
+individuals.  This service may not work best for large groups but will provide 
+a way to have virtual office hours with individual and small groups of students.
 
+This solution is licensed through CaTS and available to all WSU faculty.  
+
+[Cisco Webex instructions can be found here](https://www.wright.edu/information-technology/services/cisco-webex-meeting-center).
+
+You can sign in Cisco webex with your campus username and password here: [http://wright.webex.com/](http://wright.webex.com/)
+
+A neat feature of our partnership with webex, you get your own personal meeting room with the following type of link:
+[https://wright.webex.com/meet/matthew.kijowski](https://wright.webex.com/meet/matthew.kijowski).  
+Note: this link will put you in a waiting room until the owner of the link signs in to begin the meeting.
 
 ### Discord
+Discord is a voice and text chat solution that is popular with gamers.  The big 
+benefit of Discord (besides being free) is it allows students to communicate 
+with one another synchronously via voice or asynchronously via text without the
+instructor needing to manage it.  This allows students to help each other out
+and can reduce the load on the instructor.
+
+Here is an example discord server invite: [https://discord.gg/xcgpNSV](https://discord.gg/xcgpNSV)
 
 
-### Micrsoft Teams
+### Microsoft Teams
+
 
 
 ### Jamboard
+Google Jamboard is a google drive app that allows for shared online collaborative whiteboards.
+
+Google Jamboard sign in:  [https://jamboard.google.com/](https://jamboard.google.com/)
+
+Online Google jamboard tutorials can be found here: [https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard](https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard)
 
 
 ### OneNote
