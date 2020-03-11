@@ -8,6 +8,7 @@ If you need help with any of these, or if you need hardware (camera,
 microphone, etc.) to support  please contact 
 [cse-support@wright.edu](cse-support@wright.edu).  Please be patient as this document is currently being worked on.
 
+---
 Contained in this document are the following:
 
 #### Lecture recording/livestream:
@@ -30,7 +31,7 @@ Contained in this document are the following:
 * [Google Drive](https://github.com/mkijowski/remote-learning#google-drive)
 * [Dropbox](https://github.com/mkijowski/remote-learning#dropbox)
 
-
+---
 ### Panopto
 Panopto is a video sharing platform used to record, live stream, manage, and 
 share videos with students.  Panopto is the recording solution currently used
@@ -158,6 +159,7 @@ In progress
 
 ---
 ### Jamboard
+In progress
 Google Jamboard is a google drive app that allows for shared online collaborative whiteboards.
 
 Google Jamboard sign in:  [https://jamboard.google.com/](https://jamboard.google.com/)
@@ -178,11 +180,13 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ---
 ### OneDrive
+In progress
 
 ---
 ### Google Drive
+In progress
 
 ---
 ### Dropbox
-
+In progress
 
