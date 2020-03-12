@@ -25,6 +25,8 @@ Contained in this document are the following:
   etc.)](https://web1.cs.wright.edu/software/remoteaccess/)
 * [WSU Campus VPN
   information](https://www.wright.edu/information-technology/security/virtual-private-networks-software-overview)
+* [Hardware Recommendations for remote
+  learning](https://github.com/mkijowski/remote-learning#hardware-recommendations)
 
 #### Other tools
 * [Github (code collaboration)](https://github.com/mkijowski/remote-learning#github)
@@ -248,5 +250,34 @@ Because of this added complexity we recommend using the provided Panopto recorde
 
 The last time I worked with Camtasia, our campus license required your system 
 to be on Active Directory.
+
+---
+### Hardware recommendations
+All links are non-affiliate amazon.com links.  Please do more research as prices
+are likely to fluxuate and stock will be in high demand as more places move
+online.
+
+Microphones:
+* [Blue Snowball - $50-75](https://www.amazon.com/Blue-Snowball-Microphone-Gloss-Black/dp/B002OO18NS/ref=sxin_2_ac_d_rm?ac_md=0-0-Ymx1ZSBzbm93YmFsbA%3D%3D-ac_d_rm&cv_ct_cx=blue+snowball&keywords=blue+snowball&pd_rd_i=B002OO18NS&pd_rd_r=9b4b643b-67a5-4878-b664-3099c8b559d0&pd_rd_w=IicRP&pd_rd_wg=iiaDZ&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=P8GA7JH5YVX24QAZXTD4&psc=1&qid=1584031548)
+* [Blue yeti - ~$125](https://www.amazon.com/Blue-Yeti-USB-Microphone-Blackout/dp/B00N1YPXW2/ref=sxin_2_ac_d_rm?ac_md=1-1-Ymx1ZSB5ZXRp-ac_d_rm&cv_ct_cx=blue+snowball&keywords=blue+snowball&pd_rd_i=B00N1YPXW2&pd_rd_r=9b4b643b-67a5-4878-b664-3099c8b559d0&pd_rd_w=IicRP&pd_rd_wg=iiaDZ&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=P8GA7JH5YVX24QAZXTD4&psc=1&qid=1584031548)
+
+Laptops with touch screen and pen:
+* [Surface Pro 7 w/ i5 processor - ~$775](https://www.amazon.com/NEW-Microsoft-Surface-Pro-Touch-Screen/dp/B07YNJGMH6/ref=sr_1_5?keywords=surface+pro+7+i5&qid=1584031650&sr=8-5)
+* [Surface Pro 7 w/ i7 processor - ~$1500](https://www.amazon.com/NEW-Microsoft-Surface-Pro-Touch-Screen/dp/B07YNHZ78F/ref=sr_1_5?keywords=surface%2Bpro%2B7%2Bi5&qid=1584031650&sr=8-5&th=1)
+* [Surface pro pen sold separately - ~$65](https://www.amazon.com/Microsoft-Surface-Charcoal-Black-Model/dp/B074GYX6VR/ref=pd_cp_147_1/130-8469396-8433752?_encoding=UTF8&pd_rd_i=B074GYX6VR&pd_rd_r=9981416a-f8b3-4fc7-8527-534392611852&pd_rd_w=6JnXZ&pd_rd_wg=YcFqv&pf_rd_p=4853e837-f87a-46d4-be32-dcf86bff7a7c&pf_rd_r=K7QQDGN5CBZ778Z7A9PT&psc=1&refRID=K7QQDGN5CBZ778Z7A9PT)
+
+Camera:
+* [Logitech c615 1080p - ~$35](https://www.amazon.com/Logitech-Laptop-Webcam-Design-360-Degree/dp/B004YW7WCY/ref=sr_1_2?keywords=logitech+c615&qid=1584031823&s=electronics&sr=1-2)
+* [Logitech c992x 1080p (faster framerate) - ~$100](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_5?keywords=logitech+webcam&qid=1584031858&s=electronics&sr=1-5)
+
+Headsets and headphones (not really required if using one of the above mic/camera setups, but 
+can reduce feedback):
+* [Logitech H390 - ~$21 (integrated microphone)](https://www.amazon.com/Logitech-Headset-H390-Noise-Cancelling/dp/B000UXZQ42/ref=sr_1_3?keywords=logitech+headset&qid=1584031996&s=electronics&sr=1-3)
+* [Sennheiser 559 - $98 (no mic, open back, comfier for long periods but doesnt
+  isolate
+  noise](https://www.amazon.com/Sennheiser-HD-559-Open-Headphone/dp/B01L1IIEKM/ref=sr_1_7?crid=J2874HWW5I3O&keywords=sennheiser+open+back+headphones&qid=1584032994&s=electronics&sprefix=sennheiser+ope%2Celectronics%2C182&sr=1-7)
+* [Beyerdynamic DT 990 Pro - $130 (no microhpone, comfier than Sennheiser's,
+  also open back and non-noise
+  isolating)](https://www.amazon.com/beyerdynamic-Over-Ear-Studio-Headphones-construction/dp/B0011UB9CQ/ref=sr_1_6?crid=J2874HWW5I3O&keywords=sennheiser+open+back+headphones&qid=1584032994&s=electronics&sprefix=sennheiser+ope%2Celectronics%2C182&sr=1-6)
 
 
