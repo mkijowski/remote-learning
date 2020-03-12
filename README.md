@@ -20,6 +20,12 @@ Contained in this document are the following:
 * [Microsoft Onenote Class Notebook (pilot integrated)](https://github.com/mkijowski/remote-learning#onenote)
 * [Google Jamboard (does not need pilot)](https://github.com/mkijowski/remote-learning#jamboard)
 
+#### Useful guides
+* [Accessing College Linux resources remotely (thor, loki,
+  etc.)](https://web1.cs.wright.edu/software/remoteaccess/)
+* [WSU Campus VPN
+  information](https://www.wright.edu/information-technology/security/virtual-private-networks-software-overview)
+
 #### Other tools
 * [Github (code collaboration)](https://github.com/mkijowski/remote-learning#github)
 * [OneDrive (file sharing)](https://github.com/mkijowski/remote-learning#onedrive)
@@ -174,6 +180,8 @@ Quick facts:
 * allows students to communicate without instructor present
 
 Topics for Microsoft Teams:
+* [Requesting a Microsoft Team Online Community (CaTS
+  link)](https://www.wright.edu/information-technology/services/online-communities)
 
 ---
 ### OneNote
