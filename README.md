@@ -8,24 +8,24 @@ course for remote delivery.
 Contained in this document are the following:
 
 #### Lecture recording/livestream:
-* [Panopto](https://github.com/mkijowski/remote-learning#panopto)
-* [Camtasia](https://github.com/mkijowski/remote-learning#camtasia)
-* [Blackboard Collaborate Ultra](https://github.com/mkijowski/remote-learning#Blackboard-Collaborate-Ultra)
+* [Panopto (asynchronous teaching/screen and video recording)](https://github.com/mkijowski/remote-learning#panopto)
+* [Blackboard Collaborate Ultra (synchronous teaching/livestream)](https://github.com/mkijowski/remote-learning#Blackboard-Collaborate-Ultra)
 
 #### Remote office hours (voice/video with small groups)
-* [Webex](https://github.com/mkijowski/remote-learning#webex)
-* [Discord](https://github.com/mkijowski/remote-learning#discord)
-* [Microsoft Teams](https://github.com/mkijowski/remote-learning#microsoft-teams)
+* [Webex (office hours & small group meetings)](https://github.com/mkijowski/remote-learning#webex)
+* [Discord (student communication tool for groups)](https://github.com/mkijowski/remote-learning#discord)
+* [Microsoft Teams (text chat, need to request through CaTS)](https://github.com/mkijowski/remote-learning#microsoft-teams)
 
 #### Online whiteboard/scribble
-* [Onenote Class Notebook](https://github.com/mkijowski/remote-learning#onenote)
-* [Jamboard](https://github.com/mkijowski/remote-learning#jamboard)
+* [Microsoft Onenote Class Notebook (pilot integrated)](https://github.com/mkijowski/remote-learning#onenote)
+* [Google Jamboard (does not need pilot)](https://github.com/mkijowski/remote-learning#jamboard)
 
-#### File sharing/collaboration
-* [Github](https://github.com/mkijowski/remote-learning#github)
-* [OneDrive](https://github.com/mkijowski/remote-learning#onedrive)
-* [Google Drive](https://github.com/mkijowski/remote-learning#google-drive)
-* [Dropbox](https://github.com/mkijowski/remote-learning#dropbox)
+#### Other tools
+* [Github (code collaboration)](https://github.com/mkijowski/remote-learning#github)
+* [OneDrive (file sharing)](https://github.com/mkijowski/remote-learning#onedrive)
+* [Google Drive (file sharing)](https://github.com/mkijowski/remote-learning#google-drive)
+* [Dropbox (file sharing)](https://github.com/mkijowski/remote-learning#dropbox)
+* [Camtasia (video/screen recording and editing)](https://github.com/mkijowski/remote-learning#camtasia)
 
 ---
 ### Panopto
@@ -92,28 +92,25 @@ All edits in Panopto are non-destructive, meaning they can be un-done.  You
 can use this video editing web interface to cut out portions of your video 
 before publishing it to students.
 
----
-### Camtasia
-Camtasia is a solution to create screen recordings along with capturing the 
-audio from your computer's microphone.  Because there is no distribution method,
-this tool will require another system like [Panopto](https://github.com/mkijowski/remote-learning#panopto) to deliver the videos to students.
-
-Because of this added complexity we recommend using the provided Panopto recorder to capture and edit videos.
-
-The last time I worked with Camtasia, our campus license required your system 
-to be on Active Directory.
 
 ---
 ### Blackboard Collaborate Ultra
-A virtual classroom built into every Pilot course, Blackboard Collaborate Ultra offers the follwoing features:  
-* Screen Sharing
-* Virtual whiteboard
+A virtual classroom built into every Pilot course (under Communications, if you 
+do not have Communication tab enabled need to add this as a content module).
+
+Quick facts:
+* Pilot integration
+* Ideal for synchronous teaching (also allows recording session for
+  asynchronous viewing)
+* Can **not** edit recorded sessions
+* Full screen or per application sharing
+* support web cams in addition to above screen share (web cam and microphone are
+  turned off by default, need to turn on at bottom of screen in session)
+* Virtual whiteboard (OneNote is better)
 * File sharing
-* Polling (multiple choice and yes/no
+* Live polling (multiple choice and yes/no)
 * Breakout groups
 * voice and text chat
-* session recording
-* Pilot integration
 
 Topics for Blackboard Collaborate Ultra: 
 * [CTL Instructions](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
@@ -121,7 +118,7 @@ Topics for Blackboard Collaborate Ultra:
 ---
 ### Webex
 Cisco Webex is a web conferencing platform that supports scheduled and live 
-web conferencing, including voice, video, and screen sharing among a number of 
+web conferencing, including voice, video, and sc0reen sharing among a number of 
 individuals.  This service may not work best for large groups but will provide 
 a way to have virtual office hours with individual and small groups of students.
 This solution is licensed through CaTS and available to all WSU faculty.  
@@ -138,9 +135,17 @@ Topics for webex:
 * [Using your Webex meeting room](https://github.com/mkijowski/remote-learning#Using-your-Webex-meeting-room)
 
 #### Using your Webex meeting room
-A neat feature of our partnership with webex, you get your own personal meeting room with the following type of link:
-[https://wright.webex.com/meet/matthew.kijowski](https://wright.webex.com/meet/matthew.kijowski).  
-Note: this link will put you in a waiting room until the owner of the link signs in to begin the meeting.
+A neat feature of our license with webex, you get your own personal meeting room with the following type of link:
+[https://wright.webex.com/meet/matthew.kijowski](https://wright.webex.com/meet/matthew.kijowski).
+
+You may need to sign in to webex using the above portal once before you can use
+this link.  This link will put you in a waiting room until the owner of the link 
+signs in to begin the meeting.
+
+You can also schedule a meeting in the future and get a unique meeting link to
+share to invitees.  Similarly to your personal meeting room, the meeting will
+not start until you sign in, early arivals will be put in a waiting area until
+you begin the meeting.
 
 ---
 ### Discord
@@ -224,4 +229,16 @@ In progress
 ---
 ### Dropbox
 In progress
+
+---
+### Camtasia
+Camtasia is a solution to create screen recordings along with capturing the 
+audio from your computer's microphone.  Because there is no distribution method,
+this tool will require another system like [Panopto](https://github.com/mkijowski/remote-learning#panopto) to deliver the videos to students.
+
+Because of this added complexity we recommend using the provided Panopto recorder to capture and edit videos.
+
+The last time I worked with Camtasia, our campus license required your system 
+to be on Active Directory.
+
 
