@@ -4,10 +4,6 @@ delivery starting on March 16, 2020.  This repository will serve as a starting
 point for documentation and instructions for popular tools to help prepare your
 course for remote delivery.
 
-If you need help with any of these, or if you need hardware (camera, 
-microphone, etc.) to support  please contact 
-[cse-support@wright.edu](cse-support@wright.edu).  Please be patient as this document is currently being worked on.
-
 ---
 Contained in this document are the following:
 
@@ -22,8 +18,8 @@ Contained in this document are the following:
 * [Microsoft Teams](https://github.com/mkijowski/remote-learning#microsoft-teams)
 
 #### Online whiteboard/scribble
+* [Onenote Class Notebook](https://github.com/mkijowski/remote-learning#onenote)
 * [Jamboard](https://github.com/mkijowski/remote-learning#jamboard)
-* [Onenote](https://github.com/mkijowski/remote-learning#onenote)
 
 #### File sharing/collaboration
 * [Github](https://github.com/mkijowski/remote-learning#github)
@@ -175,6 +171,26 @@ Quick facts:
 Topics for Microsoft Teams:
 
 ---
+### OneNote
+Microsoft OneNote Class Notebook is a program for sharing static and live collaborative whiteboards.
+
+Quick facts:
+* integrates with Pilot as an external learning tool
+* as an instructor, the first time you access in a class you will need to sign
+  in with your campus w#
+* From here you can create a class notebook
+* Class notebooks open in the OneNote web app, but has a button labeled *open in
+  app* to launch a local OneNote instalaltion
+* **Collaboration Space** is for notebooks that can be edited by everyone in
+  real time
+* **Content Library** is for content that is only editable by the instructor
+* each student gets their own notebook for copying instructor notes to and
+  editing them.  Instructor can see each students private notebooks.
+
+Topics for OneNote:
+* [Microsoft's OneNote walkthrough for teachers](https://support.office.com/en-us/article/getting-started-with-the-onenote-class-notebook-a-walkthrough-for-teachers-28666b8e-b0ae-48fe-b001-1874f5f6db58)
+
+---
 ### Jamboard
 Google Jamboard is a google drive app that allows for shared online collaborative whiteboards.
 
@@ -186,13 +202,6 @@ Quick facts:
 Topics for Jamboard:
 * [Google Jamboard sign in](https://jamboard.google.com/)
 * [Online Google jamboard tutorials](https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard)
-
----
-### OneNote
-Microsoft OneNote is a program for sharing static and live collaborative whiteboards
-
-Topics for OneNote:
-* [Microsoft's OneNote walkthrough for teachers](https://support.office.com/en-us/article/getting-started-with-the-onenote-class-notebook-a-walkthrough-for-teachers-28666b8e-b0ae-48fe-b001-1874f5f6db58)
 
 ---
 ### Github
