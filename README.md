@@ -122,6 +122,9 @@ Quick facts:
 
 Topics for Blackboard Collaborate Ultra: 
 * [CTL Instructions](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
+* [CTL instructional video
+  ~8min](https://wrightstate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cf3eaef-042f-4d8b-b231-ab7c012949b3)
+
 
 ---
 ### Webex
@@ -170,7 +173,8 @@ Quick facts:
 * allows students to communicate without instructor present
 
 Topics for Discord:
-* [Here is an example discord server](https://discord.gg/xcgpNSV)
+* Here is the official WSU CS Discord server (feel free to place this link in your pilot page): 
+  [https://discord.gg/ks3pV7G](https://discord.gg/ks3pV7G)
 
 ---
 ### Microsoft Teams
