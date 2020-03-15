@@ -41,12 +41,12 @@ Panopto is a video sharing platform used to record, live stream, manage, and
 share videos with students.  Panopto is the recording solution currently used
 in room 339 Russ and can record directly to your Pilot course.
 
-Quick facts:
+##### Quick facts:
 * campus authentication using w#
 * integrates with pilot
 * mostly web hosted, requires standalone installation for recording
 
-Topics for Panopto:
+##### Topics for Panopto:
 * [How to add Panopto to your course](https://github.com/mkijowski/remote-learning#how-to-add-panopto-to-your-course)
 * [Accessing Panopto](https://github.com/mkijowski/remote-learning#Accessing-Panopto)
 * [Recording videos with Panopto](https://github.com/mkijowski/remote-learning#Recording-videos-with-Panopto)
@@ -100,13 +100,12 @@ All edits in Panopto are non-destructive, meaning they can be un-done.  You
 can use this video editing web interface to cut out portions of your video 
 before publishing it to students.
 
-
 ---
 ### Blackboard Collaborate Ultra
 A virtual classroom built into every Pilot course (under Communications, if you 
 do not have Communication tab enabled need to add this as a content module).
 
-Quick facts:
+##### Quick facts:
 * Pilot integration
 * Ideal for synchronous teaching (also allows recording session for
   asynchronous viewing)
@@ -120,30 +119,31 @@ Quick facts:
 * Breakout groups
 * voice and text chat
 
-Topics for Blackboard Collaborate Ultra: 
+##### Topics for Blackboard Collaborate Ultra: 
 * [CTL Instructions](https://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultrahttps://www.wright.edu/center-for-teaching-and-learning/resources/blackboard-collaborate-ultra)
 * [CTL instructional video
   ~8min](https://wrightstate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cf3eaef-042f-4d8b-b231-ab7c012949b3)
 
-
 ---
 ### Webex
 Cisco Webex is a web conferencing platform that supports scheduled and live 
-web conferencing, including voice, video, and sc0reen sharing among a number of 
+web conferencing, including voice, video, and screen sharing among a number of 
 individuals.  This service may not work best for large groups but will provide 
 a way to have virtual office hours with individual and small groups of students.
 This solution is licensed through CaTS and available to all WSU faculty.  
 
-Quick facts:
+##### Quick facts:
 * campus authentication using w#
 * can use both website or standalone application
 * email alerts when someon is in your meeting room
 * scheduleable meetings
 
-Topics for webex:
+##### Topics for Webex:
 * [CaTS Cisco Webex instructions](https://www.wright.edu/information-technology/services/cisco-webex-meeting-center).
 * [Wright State Webex portal: http://wright.webex.com/](http://wright.webex.com/)
 * [Using your Webex meeting room](https://github.com/mkijowski/remote-learning#Using-your-Webex-meeting-room)
+* [Using Webex for private meetings
+  FERPA](https://github.com/mkijowski/remote-learning#using-webex-for-private-meetings)
 
 #### Using your Webex meeting room
 A neat feature of our license with webex, you get your own personal meeting room with the following type of link:
@@ -158,6 +158,14 @@ share to invitees.  Similarly to your personal meeting room, the meeting will
 not start until you sign in, early arivals will be put in a waiting area until
 you begin the meeting.
 
+#### Using Webex for private meetings
+For meetings that might involve private data (grades, etc.), the above Webex
+meeting room is not secure since names are user selected and not validated.  To
+ensure the other users you are meeting with are who they say they are you can
+schedule a meeting with them by entering their campus email in the participants
+field when scheduleing a webex meeting.  This sends them a unique meeting invite
+link to their campus email.
+
 ---
 ### Discord
 Discord is a voice and text chat solution that supports a lot of customization of user roles and permissions.  The big 
@@ -166,13 +174,13 @@ with one another synchronously via voice or asynchronously via text without the
 instructor needing to manage it.  This allows students to help each other out
 and can reduce the load on the instructor.
 
-Quick facts:
+##### Quick facts:
 * web appliance or local installation options
 * requires registering an account with discord
 * can post an invite link to pilot
 * allows students to communicate without instructor present
 
-Topics for Discord:
+##### Topics for Discord:
 * Here is the official WSU CS Discord server (feel free to place this link in your pilot page): 
   [https://discord.gg/ks3pV7G](https://discord.gg/ks3pV7G)
 
@@ -180,12 +188,12 @@ Topics for Discord:
 ### Microsoft Teams
 Teams is a text chat based collaboration tool provided by Microsoft that integrates with other Microsoft services.
 
-Quick facts:
+##### Quick facts:
 * campus authentication using w#
 * can use web hosted or standalone installation
 * allows students to communicate without instructor present
 
-Topics for Microsoft Teams:
+##### Topics for Microsoft Teams:
 * [Requesting a Microsoft Team Online Community (CaTS
   link)](https://www.wright.edu/information-technology/services/online-communities)
 
@@ -193,7 +201,7 @@ Topics for Microsoft Teams:
 ### OneNote
 Microsoft OneNote Class Notebook is a program for sharing static and live collaborative whiteboards.
 
-Quick facts:
+##### Quick facts:
 * integrates with Pilot as an external learning tool
 * as an instructor, the first time you access in a class you will need to sign
   in with your campus w#
@@ -206,19 +214,19 @@ Quick facts:
 * each student gets their own notebook for copying instructor notes to and
   editing them.  Instructor can see each students private notebooks.
 
-Topics for OneNote:
+##### Topics for OneNote:
 * [Microsoft's OneNote walkthrough for teachers](https://support.office.com/en-us/article/getting-started-with-the-onenote-class-notebook-a-walkthrough-for-teachers-28666b8e-b0ae-48fe-b001-1874f5f6db58)
 
 ---
 ### Jamboard
 Google Jamboard is a google drive app that allows for shared online collaborative whiteboards.
 
-Quick facts:
+##### Quick facts:
 * web appliance, no download needed
 * Google account required
 * allows annotation over whiteboard or screen clippings
 
-Topics for Jamboard:
+##### Topics for Jamboard:
 * [Google Jamboard sign in](https://jamboard.google.com/)
 * [Online Google jamboard tutorials](https://teachercenter.withgoogle.com/first-day-trainings/welcome-to-jamboard)
 
@@ -226,9 +234,9 @@ Topics for Jamboard:
 ### Github
 In progress
 
-Quick facts:
+##### Quick facts:
 
-Topics for github:
+##### Topics for github:
 * [Sample course prep](https://github.com/mkijowski/ceg2350)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
