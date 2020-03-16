@@ -20,13 +20,20 @@ Contained in this document are the following:
 * [Microsoft Onenote Class Notebook (pilot integrated)](https://github.com/mkijowski/remote-learning#onenote)
 * [Google Jamboard (does not need pilot)](https://github.com/mkijowski/remote-learning#jamboard)
 
+#### Remote testing tools
+* [Respondus LockDown browser and webcam
+  monitoring](https://www.wright.edu/center-for-teaching-and-learning/technology/respondus-lockdown-browser-monitor-resources-for-instructors) *External Link*
+
 #### Useful guides
 * [Accessing College Linux resources remotely (thor, loki,
-  etc.)](https://web1.cs.wright.edu/software/remoteaccess/)
+  etc.)](https://web1.cs.wright.edu/software/remoteaccess/) *External Link*
 * [WSU Campus VPN
-  information](https://www.wright.edu/information-technology/security/virtual-private-networks-software-overview)
+  information](https://www.wright.edu/information-technology/security/virtual-private-networks-software-overview) *External Link*
 * [Hardware Recommendations for remote
   learning](https://github.com/mkijowski/remote-learning#hardware-recommendations)
+* [Forwarding your office phone to an outside line (cell/home
+  phone)](http://www.wright.edu/information-technology/blog/article/call-forwarding-information-from-campus-phones) *External Link*
+
 
 #### Other tools
 * [Github (code collaboration)](https://github.com/mkijowski/remote-learning#github)
