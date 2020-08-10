@@ -14,7 +14,6 @@ Contained in this document are the following:
 #### Remote office hours (voice/video with small groups)
 * [Webex (office hours & small group meetings)](https://github.com/mkijowski/remote-learning#webex)
 * [Discord (student communication tool for groups)](https://github.com/mkijowski/remote-learning#discord)
-* [Microsoft Teams (text chat, need to request through CaTS)](https://github.com/mkijowski/remote-learning#microsoft-teams)
 
 #### Online whiteboard/scribble
 * [Microsoft Onenote Class Notebook (pilot integrated)](https://github.com/mkijowski/remote-learning#onenote)
@@ -190,19 +189,6 @@ and can reduce the load on the instructor.
 ##### Topics for Discord:
 * Here is the official WSU CS Discord server (feel free to place this link in your pilot page): 
   [https://discord.gg/ks3pV7G](https://discord.gg/ks3pV7G)
-
----
-### Microsoft Teams
-Teams is a text chat based collaboration tool provided by Microsoft that integrates with other Microsoft services.
-
-##### Quick facts:
-* campus authentication using w#
-* can use web hosted or standalone installation
-* allows students to communicate without instructor present
-
-##### Topics for Microsoft Teams:
-* [Requesting a Microsoft Team Online Community (CaTS
-  link)](https://www.wright.edu/information-technology/services/online-communities)
 
 ---
 ### OneNote
